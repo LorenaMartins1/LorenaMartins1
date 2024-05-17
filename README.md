@@ -1,11 +1,13 @@
-<body>
-    <h1>Hi! I'm Lorena Martins</h1>
-    <h2>Sobre Mim:</h2>
-    <ul>
-        <li>Computer science student</li>
-        <li>I share some projects here</li>
-        <li>Learning every day</li>
-    </ul>
-    <h2>Conheça também minha conta secundária onde compartilho um pouco das minhas atividades acadêmicas</h2>
-    Github: <a href="https://github.com/LoreMarttins">LoreMarttins</a>
-</body>
+# Olá, sou Lorena Martins!
+
+## Sobre Mim:
+
+- Estudante de Ciência da Computação
+- Compartilho alguns projetos aqui
+- Aprendendo todos os dias
+
+## Minha Conta Secundária
+
+Conheça também minha conta secundária onde compartilho um pouco das minhas atividades acadêmicas:
+
+- [LoreMarttins no GitHub](https://github.com/LoreMarttins)
