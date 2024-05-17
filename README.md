@@ -10,10 +10,11 @@
 
 Conheça também minha conta secundária onde compartilho um pouco das minhas atividades acadêmicas:
 
-<a href="https://github.com/LoreMarttins" style="margin-right: 20px;">
+<a href="https://github.com/LoreMarttins">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" height="60" alt="GitHub">
-</a><sub>Perfil Secundário</sub>
-
+</a>
+<br><sub>Perfil Secundário</sub>
+<br>
 
 
 
