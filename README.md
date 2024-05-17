@@ -6,7 +6,7 @@
 - Compartilho alguns projetos aqui
 - Aprendendo todos os dias
 
-  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?Lorena Martins&layout=compact)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenaMartins1&layout=compact)
 
 
 ## Minha Conta Secundária
