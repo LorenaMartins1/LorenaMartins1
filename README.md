@@ -1,4 +1,4 @@
-<body bgcolor="#E1B8D4">
+<body>
     <h1>Hi! I'm Lorena Martins</h1>
     <h2>Sobre Mim:</h2>
     <ul>
