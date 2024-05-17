@@ -6,6 +6,9 @@
 - Compartilho alguns projetos aqui
 - Aprendendo todos os dias
 
+  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?LorenaMartins1&layout=compact)
+
+
 ## Minha Conta Secundária
 Conheça também minha conta secundária onde compartilho um pouco das minhas atividades acadêmicas:
 
