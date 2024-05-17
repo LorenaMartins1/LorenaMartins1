@@ -7,7 +7,6 @@
 - Aprendendo todos os dias
 
 ## Minha Conta Secundária
-
 Conheça também minha conta secundária onde compartilho um pouco das minhas atividades acadêmicas:
 
 <a href="https://github.com/LoreMarttins">
@@ -15,6 +14,10 @@ Conheça também minha conta secundária onde compartilho um pouco das minhas at
 </a>
 <br><sub>Perfil Secundário</sub>
 <br>
+
+
+
+
 
 
 
