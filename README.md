@@ -10,4 +10,5 @@
 
 Conheça também minha conta secundária onde compartilho um pouco das minhas atividades acadêmicas:
 
-- [LoreMarttins no GitHub](https://github.com/LoreMarttins)
+[![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/LoreMarttins)
+
