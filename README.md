@@ -4,8 +4,9 @@
     <li>Computer science student</li>
     <li>I share some projects here</li>
     <li>Learning every day</li>
-  </ul>
-  <p>Conheça também minha conta secundária onde compartilho um pouco das minhas atividades acadêmicas</p>
+    <p>Conheça também minha conta secundária onde compartilho um pouco das minhas atividades acadêmicas</p>
     <li>Github: <a href="https://github.com/LoreMarttins">LoreMarttins</a></li>
+  </ul>
+
     
   
